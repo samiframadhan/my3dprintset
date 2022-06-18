@@ -1,0 +1,10 @@
+country=ID
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+ap_scan=1
+
+update_config=1
+network={
+	ssid="Nintendo"
+	psk=4c739c36ec6a0dd099cb69cf6781535c9fa588af88b90402ffe1d0b2b1f48cb1
+}
+
